@@ -1,0 +1,9 @@
+[submodule "f1tenth_gym_ros"]
+	path = f1tenth_gym_ros
+	url = https://github.com/f1tenth/f1tenth_gym_ros.git
+[submodule "f1tenth_ws"]
+	path = f1tenth_ws
+	url = https://github.com/CL2-UWaterloo/f1tenth_ws.git
+[submodule "f1tenth_ws_3dlidar/src/RoboRacer-3DLiDAR"]
+	path = f1tenth_ws_3dlidar/src/RoboRacer-3DLiDAR
+	url = https://github.com/TUM-AVS/RoboRacer-3DLiDAR.git
